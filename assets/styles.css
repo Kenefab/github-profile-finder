@@ -6,7 +6,7 @@
 
 body {
   background: #1ab4fc;
-  background: linear-gradient(to right, #1ab4fc, #1a1efc); 
+  
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -17,7 +17,7 @@ body {
 }
 
 input {
-  background-color: #1ab4fc;
+  background-color: #1a1efc;
   border-radius: 10px;
   border: none;
   box-shadow: 0 5px 10px rgba(154, 160, 185, 0.05),
